@@ -1,0 +1,13 @@
+{
+    "name": "hei-dou/hei-dou",
+    "description": "An PHP framework",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "postoor",
+            "email": "tungc8763-github@yahoo.com"
+        }
+    ],
+    "require": {}
+}
