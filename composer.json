@@ -9,5 +9,11 @@
             "email": "tungc8763-github@yahoo.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Consoles\\": "consoles/"
+        }
+    }
 }
